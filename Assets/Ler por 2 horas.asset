@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cbbd36e04bfe5749843d685242d0491, type: 3}
+  m_Name: Ler por 2 horas
+  m_EditorClassIdentifier: 
+  name: Ler por 2 horas
+  description: leia por pelo menos duas horas
+  achieved: 1
+  icon: {fileID: 0}
+  taskAssociated:
+    name: Ler
+    done: 0
+    currentTimer: 66.225266
+    MaxTimer: 7200
+  Key: 
+  t: 0
+  Surpass: 75
